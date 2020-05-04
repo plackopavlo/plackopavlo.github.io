@@ -10,6 +10,7 @@ body {
 	margin: 0 auto;
 	grid-template-columns: 27% 73%;
 	grid-template-rows: 100%;
+	grid-gap:10px;
 }
 .header {
 	grid-column: 1 / 2;
